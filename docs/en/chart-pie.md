@@ -30,27 +30,27 @@ const data = {
   series: [
     {
       name: 'Chrome',
-      data: 46.02,
+      data: 9,
     },
     {
       name: 'IE',
-      data: 20.47,
+      data: 18,
     },
     {
       name: 'Firefox',
-      data: 17.71,
+      data: 18,
     },
     {
       name: 'Safari',
-      data: 5.45,
+      data: 9,
     },
     {
       name: 'Opera',
-      data: 3.1,
+      data: 18,
     },
     {
       name: 'Etc',
-      data: 7.25,
+      data: 36,
     }
   ]
 }
